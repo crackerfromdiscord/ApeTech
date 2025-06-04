@@ -1,10 +1,10 @@
 Hey Apes!
 Alpha 0.0.7 Is Here!
-This Update Mostly Is For Ui and Scene Stuff
-This Update Adds A Loading Screen
-Changes How The Computer Monitor Screens Look
-Changes The Font
-And Makes The Computer Look More Like A Terminal
-Next we Are Planning To Add Cosmetics (they Might Work you Can Test By Trying On The ASexual Flag (Tell Us If It Works!)
-Change The Key model Of The Computer
-And Much More Things.
+This Update Mostly Is For Ui and Scene Stuff. |
+This Update Adds A Loading Screen. | 
+Changes How The Computer Monitor Screens Look. | 
+Changes The Font. | 
+And Makes The Computer Look More Like A Terminal. | 
+Next we Are Planning To Add Cosmetics (they Might Work you Can Test By Trying On The ASexual Flag (Tell Us If It Works!). | 
+Change The Key model Of The Computer. | 
+And Much More Things. | 
